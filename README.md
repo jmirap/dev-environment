@@ -1,5 +1,6 @@
-# Entorn de desenvolupament framework JEE Canigó corporatiu de la Generalitat de Catalunya
+# Entorn de desenvolupament framework JEE Canigó corporatiu de la Generalitat de Catalunya. Versió 2 LTS
 
+## Provat i no funcionen diferents paquets: STS, docker, subclipse. cal afegir un proces de test automàtic que validi diariament o setmanal que la instal·lació és correcta.
 
 ## Objectius
 
